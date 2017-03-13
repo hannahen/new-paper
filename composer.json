@@ -1,7 +1,7 @@
 {
-    "name": "cnvs/paper",
-    "description": "Canvas Default Appearance",
-    "keywords": ["canvas", "theme", "paper"],
+    "name": "hannahen/new-paper",
+    "description": "Canvas New Theme",
+    "keywords": ["canvas", "theme", "new-paper"],
     "type": "canvas-theme",
     "license": "MIT",
     "authors": [
@@ -12,7 +12,7 @@
     ],
     "extra": {
         "canvas-theme": {
-            "title": "Paper",
+            "title": "New Paper",
             "directories": {
                 "public": "public",
                 "views": "resources/views"
